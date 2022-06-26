@@ -2,7 +2,7 @@
 
 ## Setup
 
-* Uses TestNG and was built and tested on IntelliJ
+* Uses TestNG and was built and tested on **IntelliJ**
 
 ## Running Tests
 
